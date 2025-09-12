@@ -1,0 +1,7 @@
+id,company,title,description,location,provides_accommodation,stipend
+J001,InnoTech Labs,Data Analytics Intern,"Work on data cleaning, Excel, SQL, Python pandas, visualization and reporting.",Bengaluru,False,5000
+J002,SmartAgri Pvt Ltd,Embedded Systems Intern,"Assist with microcontroller programming, C/C++, IoT sensors and signal processing.",Coimbatore,True,6000
+J003,FinEdge Solutions,Frontend Developer Intern,"Build UI components with HTML, CSS, JavaScript, React. Basic knowledge of REST APIs.",Mumbai,False,5000
+J004,AgileWorks,ML Intern,"Work on model evaluation, Python, scikit-learn, basic NLP, and reporting results.",Pune,True,7000
+J005,GreenBuild,Civil Engineering Intern,"Site surveys, AutoCAD basics, drafting, and material testing support.",Patna,False,4500
+J006,FarmNet,Full Stack Intern,"Node.js, Express, MongoDB, basic DevOps, and deployment support.",Guwahati,True,5000
